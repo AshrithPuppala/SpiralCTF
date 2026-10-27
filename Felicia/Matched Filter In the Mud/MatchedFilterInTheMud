@@ -1,0 +1,9 @@
+Category: Signals & Systems 								
+Difficulty: Medium 										
+Points: 300
+
+Description: We intercepted a deep-space RF transmission (muddy_signal.wav), but the sender's transmitter was incredibly weak. The signal is completely buried beneath the cosmic microwave background noise.
+Fortunately, our recon team stole the baseband pulse template (template.wav) the transmitter uses before applying binary phase inversions to encode the 8-bit ASCII payload. The symbols are transmitted continuously 
+with a fixed 50-millisecond quiet guard interval between them.
+
+Task: Dig through the noise floor, demodulate the pulse sequence, and recover the flag.
