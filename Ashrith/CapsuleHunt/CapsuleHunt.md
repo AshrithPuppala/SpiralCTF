@@ -1,7 +1,7 @@
 # Capsule: Hunt the Hidden Trigger
 
 **Category:** AI/ML · Adversarial Machine Learning  
-**Difficulty:** Medium–Hard
+**Difficulty:** Easy-Medium
 
 Something is wrong with Capsule. Its black-box classifier predicts **APPROVE** or **REJECT**, but certain inputs make it behave unexpectedly.
 
